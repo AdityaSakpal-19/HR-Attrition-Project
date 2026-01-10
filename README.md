@@ -3,6 +3,11 @@
 ### Business Problem
 Identify key drivers of employee attrition and proactively flag high-risk employees to support retention planning.
 
+### Tools
+- Python: Data Validation and EDA
+- SQL: Data Aggregation
+- Power BI: KPI and Visualization
+
 ### Approach
 - Performed data validation and exploratory analysis across demographics, compensation, tenure, satisfaction, and workload.
 - Engineered features and built attrition risk scores to segment employees into low, medium, and critical risk groups.
